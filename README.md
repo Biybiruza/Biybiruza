@@ -49,3 +49,7 @@ Find out more about me & feel free to connect with me here:
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=biybiruza&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="biybiruza" /></a> </p>
 
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-readme-stats.vercel.app/api?username=biybiruza&show_icons=true&theme=default#gh-light-mode-only" alt="biybiruza"/></a> </p>
+
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?biybiruza=ryo-ma" alt="biybiruza"/></a> </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
