@@ -35,10 +35,8 @@ Find out more about me & feel free to connect with me here:
 ![Image](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 ![Image](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biybiruza&layout=compact&theme=light&border=true" alt="biybiruza"/>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biybiruza&layout=compact&theme=light&border=true" alt="biybiruza"/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=biybiruza&show_icons=true&theme=default#gh-light-mode-only" alt="biybiruza"/>
-
-<p align="right"><img src="https://github-readme-stats.vercel.app/api?username=biybiruza&show_icons=true&theme=default#gh-light-mode-only" alt="biybiruza"/>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=biybiruza&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="biybiruza" /></a> </p>
