@@ -8,7 +8,7 @@ Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Biybiruza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/biybiruzaibashova/)](https://www.linkedin.com/in/biybiruzaibashova/) 
 [![Telegram Badge](https://img.shields.io/badge/@ibashova-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/ibashova)](https://t.me/ibashova) 
-[![Telegram Badge](https://img.shields.io/badge/Bibi android devoloper-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/BibiDeveloper)](https://t.me/BibiDeveloper)
+[![Telegram Badge](https://img.shields.io/badge/@BibiAndroidDevoloper-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/BibiDeveloper)](https://t.me/BibiDeveloper)
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
