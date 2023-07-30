@@ -6,8 +6,8 @@ I am a android devoloper software engineer specializing in building high load an
 
 Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-sukhrob_nuraliev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/biybiruzaibashova/)](https://www.linkedin.com/in/biybiruzaibashova/) 
-[![Telegram Badge](https://img.shields.io/badge/@sukhrobnuraliev-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/sukhrobnuraliev)](https://t.me/sukhrobnuraliev) 
+[![Linkedin Badge](https://img.shields.io/badge/-Biybiruza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/biybiruzaibashova/)](https://www.linkedin.com/in/biybiruzaibashova/) 
+[![Telegram Badge](https://img.shields.io/badge/@ibashova?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/ibashova)](https://t.me/ibashova) 
 [![Youtube Badge](https://img.shields.io/badge/@NuraliyevOrgatadi-FF0004?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@NuraliyevOrgatadi)](https://www.youtube.com/@NuraliyevOrgatadi)
 
 https://www.linkedin.com/in/biybiruzaibashova/
