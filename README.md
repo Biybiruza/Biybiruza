@@ -8,10 +8,8 @@ Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Biybiruza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/biybiruzaibashova/)](https://www.linkedin.com/in/biybiruzaibashova/) 
 [![Telegram Badge](https://img.shields.io/badge/@ibashova-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/ibashova)](https://t.me/ibashova) 
-[![Youtube Badge](https://img.shields.io/badge/@NuraliyevOrgatadi-FF0004?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@NuraliyevOrgatadi)](https://www.youtube.com/@NuraliyevOrgatadi)
+[![Telegram Badge](https://img.shields.io/badge/Bibi android devoloper-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/BibiDeveloper)](https://t.me/BibiDeveloper)
 
-https://www.linkedin.com/in/biybiruzaibashova/
-  
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - :computer: I'm currently working on Laravel & Vue
