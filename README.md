@@ -14,7 +14,7 @@ Find out more about me & feel free to connect with me here:
 
 - :computer: I'm currently working on personal projects
 - :hourglass_flowing_sand:  Exploring android advanced and Flutter
-- :kr: Learning English language
+- :statue_of_liberty: Learning English language
 - :rocket: Always ready to collaborate for Dev Experiments
 
 ## ⚡ Technologies
